@@ -1,4 +1,4 @@
-# Lab 4 - Quiz app
+# Lab 4 - Quiz app - Birsan Andreea, FAF-193
 
 ## Story
 Imagine, you're a developer at Sunny Entertainment GK, Tokyo. Ni hao. The company is struggling to find customers in Tokyo, so the marketing department proposes to launch a proof-of-concept app for running quizzes. The marketing campaign starts soon and you have to develop the app itself.
